@@ -1,0 +1,13 @@
+p{
+    line-height: 2;/* establcer la altura de la casilla remarcada por lineas , distancia entre lienas de texto*/
+}
+body{
+    font-family: 'Krub', sans-serif;
+    background-image: linear-gradient(top top, #dfe9f3, white 100%);   
+}
+h1{
+    font-size: 1.4rem;
+}
+span{
+    font-size: 1.4rem;
+}
